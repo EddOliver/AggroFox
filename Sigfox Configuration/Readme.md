@@ -44,6 +44,7 @@ Device - [ID] - Messages
 (On this page you will see the values that you send.)
 
 Reference Images:
+
 4.11- https://preview.ibb.co/nh6ZeJ/Captura_de_pantalla_de_2018_07_21_02_39_24.png
 
 4.12- https://preview.ibb.co/fnbT6y/Captura_de_pantalla_de_2018_07_21_02_41_31.png
