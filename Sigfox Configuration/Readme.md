@@ -31,7 +31,7 @@ Each of the different models of boards that use this technology have different w
 3.11- WebPage: https://buy.sigfox.com/ 
 
 3.111- Clic in this button "Activate my DevKit"
-[[https://ibb.co/n5VhYd][img]https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png|alt=octocat]]
+[[https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png|alt=octocat]]
 
 
 
