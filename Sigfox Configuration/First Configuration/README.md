@@ -4,7 +4,7 @@ The first step to be able to use the Sigfox services, you must have the necessar
 
 In this project, we are using a Pycom Fipy Board, which in addition to the services of LoRa, LTE Cat-M1 / NB-IoT, Wifi, Etc... has the embebed service of Sigfox, in addition to a free subscription for two years to their platform.
 
-# How to configure my device?
+#Before starting
 
 The first fundamental step to use the Sigfox technology, is to check that they have coverage in your area, because if they do not have it, it does not make sense to follow this tutorial.
 
@@ -13,6 +13,8 @@ https://www.sigfox.com/en/coverage
 If there is coverage in your area, then the next step will be to review your coverage area code, which will have to be placed later in your code to be able to send packages.
 
 https://radiocrafts.com/kb/what-is-a-sigfox-zone/
+
+# How to configure my device?
 
 Each of the different models of boards that use this technology have different ways to register the component and activate the Sigfox service, but in general they have some points in common.
 
