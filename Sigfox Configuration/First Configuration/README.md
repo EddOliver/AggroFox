@@ -4,7 +4,7 @@ The first step to be able to use the Sigfox services, you must have the necessar
 
 In this project, we are using a Pycom Fipy Board, which in addition to the services of LoRa, LTE Cat-M1 / NB-IoT, Wifi, Etc... has the embebed service of Sigfox, in addition to a free subscription for two years to their platform.
 
-#Before starting
+# Before starting
 
 The first fundamental step to use the Sigfox technology, is to check that they have coverage in your area, because if they do not have it, it does not make sense to follow this tutorial.
 
