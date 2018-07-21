@@ -38,15 +38,18 @@ https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png
 
 4.- Enter the backend page of the sigfox platform to be able to upload your first value to the system. (If you do not send your first value to the platform before 4 months, the system deactivates your free account). WebPage:https://backend.sigfox.com/device/list
 
-4.1- https://preview.ibb.co/nh6ZeJ/Captura_de_pantalla_de_2018_07_21_02_39_24.png
+4.1.- To be able to visualize your first value on the page you have to go to the following path:
+Device - [ID] - Messages
 
-4.2- https://preview.ibb.co/fnbT6y/Captura_de_pantalla_de_2018_07_21_02_41_31.png
+(On this page you will see the values that you send.)
+
+Reference Images:
+4.11- https://preview.ibb.co/nh6ZeJ/Captura_de_pantalla_de_2018_07_21_02_39_24.png
+
+4.12- https://preview.ibb.co/fnbT6y/Captura_de_pantalla_de_2018_07_21_02_41_31.png
 
 
 5.- Make the corresponding code for the board you are using to make the first data upload to the platform. (In this folder we provide the codes to send the first data from Pycom).
 Official Pycom WebPage Documents: https://docs.pycom.io/chapter/firmwareapi/pycom/network/sigfox.html
 
-
-6.- To be able to visualize your first value on the page you have to go to the following path:
-Device - [ID] - Messages
 
