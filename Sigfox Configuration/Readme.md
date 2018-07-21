@@ -16,11 +16,13 @@ Each of the different models of boards that use this technology have different w
 
 1.12- Firmware: https://docs.pycom.io/chapter/gettingstarted/installation/firmwaretool.html
 
+
 2.- Obtain the Device ID and PAC number from your board.
 
 2.1- For Pycom card this is easily obtained after doing a software update.
 
 2.11-Automatically the program indicates both numbers and indicates the number for the LoRa registration (in case you also save it for another project).
+
 
 3.- Make the registration of your hardware on the official website of Sigfox.
 
@@ -29,5 +31,7 @@ Each of the different models of boards that use this technology have different w
 3.11- WebPage: https://buy.sigfox.com/ 
 
 3.111- Clic in this button "Activate my DevKit"
+[[https://ibb.co/n5VhYd][img]https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png|alt=octocat]]
+
 
 
