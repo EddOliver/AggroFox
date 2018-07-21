@@ -6,7 +6,7 @@ In this project, we are using a Pycom Fipy Board, which in addition to the servi
 
 # How to configure my device?
 
-The first fundamental step to use technology, is to check that they have coverage in your area, because if they do not have it, it does not make sense to follow this tutorial.
+The first fundamental step to use the Sigfox technology, is to check that they have coverage in your area, because if they do not have it, it does not make sense to follow this tutorial.
 
 https://www.sigfox.com/en/coverage
 
