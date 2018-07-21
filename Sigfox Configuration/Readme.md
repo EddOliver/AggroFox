@@ -33,5 +33,15 @@ Each of the different models of boards that use this technology have different w
 3.111- Clic in this button "Activate my DevKit"
 https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png
 
+3.112- Complete the registration.
 
+
+4.- Enter the backend page of the sigfox platform to be able to upload your first value to the system. (If you do not send your first value to the platform before 4 months, the system deactivates your free account). WebPage:https://backend.sigfox.com/device/list
+
+
+5.- Make the corresponding code for the board you are using to make the first shipment of data to the platform. (In this repository we provide the codes to send the data from Pycom).
+Official Pycom WebPage Documents: https://docs.pycom.io/chapter/firmwareapi/pycom/network/sigfox.html
+
+
+6.- 
 
