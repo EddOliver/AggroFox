@@ -11,5 +11,5 @@ For the realization of the complete circuit, we use the Pycom port to send infor
 - 1 Resistance of 4.7kohm.
 - Cable, Welding, Jump wire or similar.
 
-<img src="https://thumb.ibb.co/deQmyd/Agrofox_bb.png" width="800">
+<img src="https://image.ibb.co/kV5VPJ/Agrofox_bb.png" width="800">
 
