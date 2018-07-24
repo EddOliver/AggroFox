@@ -69,6 +69,11 @@ Explaining a bit that is each part of the link:
 
 7.- Once finished that we put on the sign "OK" and the application will be created.
 
+# Next Step
+
+Once this has been configured, now you have to configure the pycom with the corresponding .py file as indicated in the Pycom Code folder.
+
+
 
 
 
