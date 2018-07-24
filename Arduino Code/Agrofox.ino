@@ -9,11 +9,12 @@
 #define humedad A3
 #define temp    A2
 #define DHTTYPE DHT11
+#define min 60000
 
 // Setup libraries variables
 OneWire oneWire(ONE_WIRE_BUS);
 DHT dht(temp, DHTTYPE);
-SoftwareSerial mySerial(13, A0); // RX, TX
+SoftwareSerial mySerial(13, 10); // RX(DONT CARE) , TX (Pycom Serial Communication)
 
 // DallasTemperature sensors definition
 DallasTemperature sensors(&oneWire);
@@ -22,7 +23,7 @@ DallasTemperature sensors(&oneWire);
  * The setup function. We only start all sensors here
  */
 void setup(void)
-{ delay(100);
+{ 
   mySerial.begin(9600);
   Serial.begin(9600);
   sensors.begin();
@@ -34,8 +35,6 @@ void setup(void)
  */
 void loop(void)
 {
-  delay(1000); // Update Frecuency Sensor Values
-
   sensors.requestTemperatures();
   int hume = analogRead(humedad);
   int hum  = map(hume, 0, 1023, 0, 950);
@@ -106,9 +105,8 @@ void loop(void)
   {
     dha=String(hica);
   }
-
-
-
+  
   mySerial.print(dte+dhume+dhe+dta+dhuma+dha);  // We send sensor data by serial to pycom
   Serial.println(dte+dhume+dhe+dta+dhuma+dha);  // This serial string is only for debugging
+  delay(6*min); // Update Frecuency Sensor Values, in this case 6 minutes, 120 data by day
 }
