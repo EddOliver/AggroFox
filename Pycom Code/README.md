@@ -30,5 +30,7 @@ Link: https://docs.pycom.io/chapter/pymakr/installation/atom.html
 
 If you have already completed this configuration, proceed to perform the corresponding circuit in the Circuit folder.
 
+https://github.com/EddOliver/AggroFox/tree/master/Circuit
+
 Once this is done you can connect everything to start receiving sensor data in Sigfox and Thingspeak.
 
