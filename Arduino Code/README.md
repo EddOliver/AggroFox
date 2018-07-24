@@ -1,2 +1,3 @@
-# AggroFox
-Agrofox notification, dashboard and analytics for in house agriculture using sigfox technology.
+# Arduino Configuration
+
+For the configuration of the Arduino the only thing that has to be done is to upload the sketch provided in this git.
