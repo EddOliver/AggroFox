@@ -4,7 +4,7 @@ Congratulations! You are here to learn how to configure our Agrofox application 
 
 # Thingspeak Configuration
 
-A travez de la plataforma de Sigfox https://backend.sigfox.com vamos a utilizar sus herramientas de devolución de llamada para realizar la publicación de la página de cosas, para ello la primera parte para la configuración del canal de datos en https://thingspeak.com .
+Through the platform of Sigfox https://backend.sigfox.com we will use its callback tools to make the publication of the page of things, for it the first part for the configuration of the data channel in https: //thingspeak.com
 
 1.- Sign in or Create a free account.
 
@@ -48,6 +48,7 @@ Let's look at this variable: tempe :: uint: 8
 This is the payload that we will send with all our variables:
 
 "tempe :: uint: 8 hume :: uint: 8 inde :: uint: 8 tempa :: uint: 8 huma :: uint: 8 inda :: uint: 8"
+
 
 
 
