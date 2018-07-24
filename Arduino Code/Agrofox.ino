@@ -9,7 +9,7 @@
 #define humedad A3
 #define temp    A2
 #define DHTTYPE DHT11
-#define min 60000
+#define minu 60000
 
 // Setup libraries variables
 OneWire oneWire(ONE_WIRE_BUS);
@@ -108,5 +108,5 @@ void loop(void)
   
   mySerial.print(dte+dhume+dhe+dta+dhuma+dha);  // We send sensor data by serial to pycom
   Serial.println(dte+dhume+dhe+dta+dhuma+dha);  // This serial string is only for debugging
-  delay(6*min); // Update Frecuency Sensor Values, in this case 6 minutes, 120 data by day
+  delay(6*minu); // Update Frecuency Sensor Values, in this case 6 minutes, 120 data by day
 }
