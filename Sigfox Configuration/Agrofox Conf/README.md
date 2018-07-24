@@ -21,5 +21,7 @@ Our Fields:
 - Humidity Air [%]
 - Heat Index Air [C°]
 
+<img src="https://image.ibb.co/djsDUT/graficos.png" width="400">
+
 
 
