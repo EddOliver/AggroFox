@@ -10,7 +10,7 @@ A travez de la plataforma de Sigfox https://backend.sigfox.com vamos a utilizar 
 
 2.- Create your Channel and it creates all the fields it requires for your data (Maximum 12, because the sigfox technology only allows 12 bytes per package of information sent), in the case of our application there will be 6 fields.
 
-<img src="https://image.ibb.co/cmkgio/Canalnuevo.png" width="400"> <img src="https://image.ibb.co/meqspT/Datos.png" width="400"> <img src="https://image.ibb.co/hsX59T/create.png" width="400">
+<img src="https://image.ibb.co/cmkgio/Canalnuevo.png" width="300"> <img src="https://image.ibb.co/meqspT/Datos.png" width="300"> <img src="https://image.ibb.co/hsX59T/create.png" width="300">
 
 Our Fields:
 
