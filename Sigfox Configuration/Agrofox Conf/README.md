@@ -12,7 +12,7 @@ A travez de la plataforma de Sigfox https://backend.sigfox.com vamos a utilizar 
 
 <img src="https://image.ibb.co/cmkgio/Canalnuevo.png" width="280"> <img src="https://image.ibb.co/meqspT/Datos.png" width="280"> <img src="https://image.ibb.co/hsX59T/create.png" width="280">
 
-Our Fields:
+<img src="https://image.ibb.co/djsDUT/graficos.png" width="400"> Our Fields:
 
 - Temperature Earth [C°]
 - Moisture Earth [%]
@@ -21,7 +21,7 @@ Our Fields:
 - Humidity Air [%]
 - Heat Index Air [C°]
 
-<img src="https://image.ibb.co/djsDUT/graficos.png" width="400">
+
 
 
 
