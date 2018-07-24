@@ -33,5 +33,22 @@ Our Fields:
 
 <img src="https://image.ibb.co/cBh0b8/callback2.png" width="740"> 
 
+3.3.- Create your custom callback.
+
+<img src="https://image.ibb.co/mznmio/Custom.png" width="740"> 
+
+3.3.1.- In this section we have to configure 2 fundamental things, the data we will receive in Sigfox and how we will send them to the website, in this case for our application we will receive 6 bytes of information, which are declared "Custom payload config" , for example:
+
+Let's look at this variable: tempe :: uint: 8
+
+- Name of the variable ---> tempe
+- Type of variable ---> uint (variable unsigned int)
+- Bit length of the data ---> 8
+
+This is the payload that we will send with all our variables:
+
+"tempe :: uint: 8 hume :: uint: 8 inde :: uint: 8 tempa :: uint: 8 huma :: uint: 8 inda :: uint: 8"
+
+
 
 
