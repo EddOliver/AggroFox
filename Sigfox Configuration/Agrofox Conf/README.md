@@ -23,5 +23,15 @@ Our Fields:
 
 <img src="https://image.ibb.co/djsDUT/graficos.png" width="740"> 
 
+3.- Sign in or Create a free account.
+
+3.1.- Enter in your Device type.
+
+<img src="https://image.ibb.co/eDO6G8/callback1.png" width="740"> 
+
+3.2.- Enter in your Callback Configuration.
+
+<img src="https://image.ibb.co/cBh0b8/callback2.png" width="740"> 
+
 
 
