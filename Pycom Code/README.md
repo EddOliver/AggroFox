@@ -26,3 +26,9 @@ Link: https://docs.pycom.io/chapter/pymakr/installation/atom.html
 
 - The board turns on a blank RGB LED when the data is sent to Sigfox and will turn off when the shipment is finished to wait for a new serial string from the Arduino.
 
+# Next Step
+
+If you have already completed this configuration, proceed to perform the corresponding circuit in the Circuit folder.
+
+Once this is done you can connect everything to start receiving sensor data in Sigfox and Thingspeak.
+
