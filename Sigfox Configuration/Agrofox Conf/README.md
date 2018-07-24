@@ -23,7 +23,7 @@ Our Fields:
 
 <img src="https://image.ibb.co/djsDUT/graficos.png" width="740"> 
 
-3.- Sign in or Create a free account.
+3.- Enter in your account in the website https://backend.sigfox.com.
 
 3.1.- Enter in your Device type.
 
@@ -37,7 +37,11 @@ Our Fields:
 
 <img src="https://image.ibb.co/mznmio/Custom.png" width="740"> 
 
-3.3.1.- In this section we have to configure 2 fundamental things, the data we will receive in Sigfox and how we will send them to the website, in this case for our application we will receive 6 bytes of information, which are declared "Custom payload config" , for example:
+3.4.- Set all the fields as indicated below.
+
+<img src="https://image.ibb.co/eBNK3o/send.png" width="740"> 
+
+3.4.1.- In this section we have to configure 2 fundamental things, the data we will receive in Sigfox and how we will send them to the website, in this case for our application we will receive 6 bytes of information, which are declared "Custom payload config" , for example:
 
 Let's look at this variable: tempe :: uint: 8
 
@@ -49,7 +53,7 @@ This is the payload that we will send with all our variables:
 
 "tempe::uint:8 hume::uint:8 inde::uint:8 tempa::uint:8 huma::uint:8 inda::uint:8"
 
-3.3.2.- To do the POST html that requires the Thingspeak app and thus upload data in the graphics, we need to put in the "Url pattern" the following address with the following data.
+3.4.2.- To do the POST html that requires the Thingspeak app and thus upload data in the graphics, we need to put in the "Url pattern" the following address with the following data.
 
 "https://api.thingspeak.com/update.json?api_key=YOUR_API_KEY&field1={customData#tempe}&field2={customData#hume}&field3={customData#inde}&field4={customData#tempa}&field5={customData#huma}&field6={customData#inda}"
 
@@ -59,11 +63,9 @@ Explaining a bit that is each part of the link:
 
 - The variables that are in brackets {customData#tempe}, "tempe" is the name of each of the variables declared in the payload.
 
-<img src="https://image.ibb.co/eBNK3o/send.png" width="740"> 
+3.5.- In the "Use HTTP Method" section, you have to select the GET option.
 
-3.4.- In the "Use HTTP Method" section, you have to select the GET option.
-
-3.5.- Once finished that we put on the sign "OK" and the application will be created.
+3.6.- Once finished that we put on the sign "OK" and the application will be created.
 
 
 
