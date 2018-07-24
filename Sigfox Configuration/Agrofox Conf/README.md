@@ -47,8 +47,23 @@ Let's look at this variable: tempe :: uint: 8
 
 This is the payload that we will send with all our variables:
 
-"tempe :: uint: 8 hume :: uint: 8 inde :: uint: 8 tempa :: uint: 8 huma :: uint: 8 inda :: uint: 8"
+"tempe::uint:8 hume::uint:8 inde::uint:8 tempa::uint:8 huma::uint:8 inda::uint:8"
 
+3.3.2.- To do the POST html that requires the Thingspeak app and thus upload data in the graphics, we need to put in the "Url pattern" the following address with the following data.
+
+"https://api.thingspeak.com/update.json?api_key=YOUR_API_KEY&field1={customData#tempe}&field2={customData#hume}&field3={customData#inde}&field4={customData#tempa}&field5={customData#huma}&field6={customData#inda}"
+
+Explaining a bit that is each part of the link:
+
+- In the part of the link that says YOUR_API_KEY it is necessary to put the writing API for thingspeak.
+
+- The variables that are in brackets {customData#tempe}, "tempe" is the name of each of the variables declared in the payload.
+
+<img src="https://image.ibb.co/eBNK3o/send.png" width="740"> 
+
+3.4.- In the "Use HTTP Method" section, you have to select the GET option.
+
+3.5.- Once finished that we put on the sign "OK" and the application will be created.
 
 
 
