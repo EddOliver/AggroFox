@@ -3,32 +3,12 @@
 Agrofox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
 # Table of contents
+* [Introduction](#introduction)
 * [Where should I start?](#where-should-i-start)
 
-# Table of contents
-* [Supported microcontrollers](#supported-microcontrollers)
-* [Where should I start?](#WhereshouldIstart?)
-* [BOD option](#bod-option)
-* [Link time optimization / LTO](#link-time-optimization--lto)
-* [Programmers](#programmers)
-* [Write to own flash](#write-to-own-flash)
-* **[How to install](#how-to-install)**
-	- [Boards Manager Installation](#boards-manager-installation)
-	- [Manual Installation](#manual-installation)
-* **[Getting started with MegaCore](#getting-started-with-megacore)**
-* [Wiring reference](#wiring-reference)	
-* **[Pinout](#pinout)**
-* **[Minimal setup](#minimal-setup)**
+## Introduction:
 
 
-## Supported microcontrollers:
-* ATmega2561
-* ATmega2560
-* ATmega1281
-* ATmega1280
-* ATmega640
-* ATmega128
-* ATmega64
 
 ## Where should I start:
 
