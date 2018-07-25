@@ -1,5 +1,12 @@
 # AggroFox
-Agrofox notification, dashboard and analytics for in house agriculture using sigfox technology.
+
+Agrofox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
+
+# Table of contents
+
+# Table of contents
+
+* [Where should I start?](# Where should I start?)
 
 # Where should I start?
 
