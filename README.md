@@ -3,7 +3,7 @@
 Agrofox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
 # Table of contents
-* [Where should I start?](#where-should-i-start?)
+* [Where should I start?](#where-should-i-start)
 
 # Table of contents
 * [Supported microcontrollers](#supported-microcontrollers)
@@ -30,7 +30,7 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 * ATmega128
 * ATmega64
 
-## Where should I start?:
+## Where should I start:
 
 1.-Do the first configuration for your board.
 
