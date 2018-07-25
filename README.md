@@ -7,7 +7,7 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 
 # Table of contents
 * [Supported microcontrollers](#supported-microcontrollers)
-* [Supported clock frequencies](#supported-clock-frequencies)
+* [Where should I start?](#Where should I start?)
 * [BOD option](#bod-option)
 * [Link time optimization / LTO](#link-time-optimization--lto)
 * [Programmers](#programmers)
