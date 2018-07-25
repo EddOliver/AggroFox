@@ -30,7 +30,7 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 * ATmega128
 * ATmega64
 
-## WhereshouldIstart?
+## Where should I start?:
 
 1.-Do the first configuration for your board.
 
