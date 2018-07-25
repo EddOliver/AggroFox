@@ -7,7 +7,7 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 
 # Table of contents
 * [Supported microcontrollers](#supported-microcontrollers)
-* [Where should I start?](#Where-should-I-start?)
+* [Where should I start?](#WhereshouldIstart?)
 * [BOD option](#bod-option)
 * [Link time optimization / LTO](#link-time-optimization--lto)
 * [Programmers](#programmers)
@@ -30,7 +30,7 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 * ATmega128
 * ATmega64
 
-## Where should I start?
+## WhereshouldIstart?
 
 1.-Do the first configuration for your board.
 
