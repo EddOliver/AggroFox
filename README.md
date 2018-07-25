@@ -4,9 +4,16 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 
 # Table of contents
 * [Introduction](#introduction)
+* [Our Solution](#our-solution)
 * [Where should I start?](#where-should-i-start)
 
 ## Introduction:
+
+The field needs the impulse of technological research and development to face effectively the challenges related to the availability of agricultural land, productivity and natural resources, in addition to having inputs that contribute to sustainability.
+
+The research and technological development that must be carried out and achieved on a large scale are key pieces to increase productivity in the field, obtain higher yields in crops and thus mitigate the effects of climate change thanks to the saving of resources such as pesticides or fertilizers.
+
+## Our Solution:
 
 
 
