@@ -4,11 +4,9 @@ Agrofox notification, dashboard and analytics for in house and large-scale agric
 
 # Table of contents
 
-# Table of contents
-
 * [Where should I start?](# Where should I start?)
 
-# Where should I start?
+## Where should I start?
 
 1.-Do the first configuration for your board.
 
