@@ -1,6 +1,6 @@
 # Circuit Characteristics
 
-To complete this circuit, we use the Pycom FiPy dev board to send information to Sigfox and the Arduino Mini Pro to receive information and control the sensors. We then link these two devices via serial communication at 9600 baud. This uses the extensive libraries of the Arduino Ecosystem so the proyect may be expanded further without limits.
+To complete this circuit, we use the Pycom FiPy dev board to send information to Sigfox, and the Arduino Mini Pro to receive information and control the sensors. We then link these two devices via serial communication at 9600 baud. This uses the extensive libraries of the Arduino Ecosystem so the proyect may be expanded further without limits.
 
 Bill of Materials:
 
