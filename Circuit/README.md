@@ -1,10 +1,12 @@
 # Circuit Characteristics
 
-For the realization of the complete circuit, we use the Pycom port to send information to Sigfox and the Arduino Mini Pro as controller of the sensors, the communication between these two devices of hara by means of serial communication at 9600 baud.
+To complete this circuit, we use the Pycom FiPy dev board to send information to Sigfox and the Arduino Mini Pro to receive information and control the sensors. We then link these two devices via serial communication at 9600 baud. This uses the extensive libraries of the Arduino Ecosystem so the proyect may be expanded further without limits.
 
-- Arduino Mini Pro (or any other board).
+Bill of Materials:
+
+- Arduino Mini Pro (or any other Arduino board).
 - Pycom FyPy Board (or SyPy).
-- Moisture sensor.
+- Moisture sensor.(preferably Capacitive)
 - DHT11 Sensor.
 - DS18B20 Sensor.
 - 3 Resistances of 1kohm.
