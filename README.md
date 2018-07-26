@@ -33,7 +33,11 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Arduino%20Code
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Pycom%20Code
 
-5.- Make the circuit and complete the project.
+5.- Make the circuit:
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Circuit
+
+6.- Link it to IBM IoT Cloud for amazing dashboards, data storage and access to other cloud services.
+
+7.- Enjoy!
 
