@@ -25,16 +25,15 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/F
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf
 
-3.- Do your Arduino configuration.
+3.- Do the Arduino configuration.
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Arduino%20Code
 
-4.- Do your Pycom configuration.
+4.- Do the Pycom configuration.
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Pycom%20Code
 
-5.- Do the circuit and complete the project.
+5.- Make the circuit and complete the project.
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Circuit
 
-6.- Enjoy! :3
