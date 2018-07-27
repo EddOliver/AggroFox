@@ -15,7 +15,11 @@ AggroFox notification, dashboard and analytics for in house and large-scale agri
 
 ## Our Solution:
 
+Our solution to the problem is to realize a sustainable model of sensing and irrigation automation.
 
+<img src="https://image.ibb.co/jCENyo/Esquematico.png" width="800">
+
+1.- 
 
 ## Where should I start:
 
