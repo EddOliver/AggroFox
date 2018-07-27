@@ -2,8 +2,7 @@
 
 # Table of contents
 * [Sigfox Module](#sigfox-module)
-* [Our Solution](#our-solution)
-* [Where should I start?](#where-should-i-start)
+* [Valve Module](#valve-module)
 
 ## Sigfox Module: 
 
