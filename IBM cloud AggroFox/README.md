@@ -12,6 +12,7 @@ In this step, you will create an instance of Node-RED running on IBM Cloud.
 
 From the boilerplates list, click Node-RED Starter. 
 
+<img src="https://image.ibb.co/mwMFG8/noderedstarter.jpg">
 
 If you are using an IBM Cloud Lite account, you need to choose the Internet of Things Platform Starter, instead.
 
