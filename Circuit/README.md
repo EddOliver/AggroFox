@@ -1,4 +1,11 @@
-# Circuit Characteristics
+# Circuit Characteristics:
+
+# Table of contents
+* [Sigfox Module](#sigfox-module)
+* [Our Solution](#our-solution)
+* [Where should I start?](#where-should-i-start)
+
+## Sigfox Module: 
 
 To complete this circuit, we use the Pycom FiPy dev board to send information to Sigfox, and the Arduino Mini Pro to receive information and control the sensors. We then link these two devices via serial communication at 9600 baud. This uses the extensive libraries of the Arduino Ecosystem so the proyect may be expanded further without limits.
 
@@ -14,4 +21,20 @@ Bill of Materials:
 - Cable, Welding, Jump wire or similar.
 
 <img src="https://image.ibb.co/kqWAb8/Agrofox_bb.png" width="800">
+
+## Valve Module: 
+
+Once the main circuit is completed, perform the automated irrigation valve.
+
+Bill of Materials:
+
+- Photon Particle (or any other Wifi board).
+- TIP120
+- 12v Source.
+- Valve Solenoid Nc 1/2.
+- Diode 4007.
+- 1 Resistances of 2.2kohm.
+- Cable, Welding, Jump wire or similar.
+
+<img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" width="800">
 
