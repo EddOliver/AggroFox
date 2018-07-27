@@ -73,6 +73,8 @@ Explaining a bit that is each part of the link:
 
 Once this has been configured, now you have to configure the pycom with the corresponding .py file as indicated in the Pycom Code folder.
 
+Link: https://github.com/EddOliver/AggroFox/tree/master/Pycom%20Code
+
 
 
 
