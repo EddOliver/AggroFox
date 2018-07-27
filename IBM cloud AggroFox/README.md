@@ -1,5 +1,7 @@
 # Follow this tutorial to create an amazing Node-RED dashboard via IBM cloud!
 
+We are assuming that you already have an IBM cloud account, if not please create one, every service we use here is completely FREE.
+
 1.- First Create a Node-RED instance:
 
 https://github.com/EddOliver/AggroFox/blob/master/IBM%20cloud%20AggroFox/Createnoderedinstance.md
