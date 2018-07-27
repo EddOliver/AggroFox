@@ -41,5 +41,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Circuit
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/IBM%20cloud%20AggroFox
 
-7.- Enjoy!
+7.- Automation of irrigation via IBM cloud with weather forecast!!!
+
+8.- Enjoy!
 
