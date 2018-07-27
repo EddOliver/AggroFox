@@ -28,9 +28,6 @@ Link: https://docs.pycom.io/chapter/pymakr/installation/atom.html
 
 # Next Step
 
-If you have already completed this configuration, proceed to perform the corresponding circuit in the Circuit folder.
+Once this has been configured, now you have to configure the Arduino module with the corresponding .ino file as indicated in the Arduino Code folder.
 
-https://github.com/EddOliver/AggroFox/tree/master/Circuit
-
-Once this is done you can connect everything to start receiving sensor data in Sigfox and Thingspeak.
-
+Link: https://github.com/EddOliver/AggroFox/tree/master/Arduino%20Code
