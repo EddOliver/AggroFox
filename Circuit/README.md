@@ -35,5 +35,5 @@ Bill of Materials:
 - 1 Resistances of 2.2kohm.
 - Cable, Welding, Jump wire or similar.
 
-<img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" width="400">
+<img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" width="500">
 
