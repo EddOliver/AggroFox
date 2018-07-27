@@ -58,10 +58,14 @@ Reference Images:
 <img src="https://preview.ibb.co/nh6ZeJ/Captura_de_pantalla_de_2018_07_21_02_39_24.png" width="800">
 <img src="https://preview.ibb.co/fnbT6y/Captura_de_pantalla_de_2018_07_21_02_41_31.png" width="800">
 
-# Next Step
-
-Make the corresponding code for the board you are using to make the first data upload to the platform. (In this folder we provide the codes to send the first data from Pycom).
+5.- Make the corresponding code for the board you are using to make the first data upload to the platform. (In this folder we provide the codes to send the first data from Pycom).
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/First%20Configuration/Pycom%20Test%20Code
+
+# Next Step
+
+After having made the first configuration and tested the Sigfox module (in this case the Pycom), follow the following steps in the following link:
+
+Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf
 
 Official Pycom WebPage Documents: https://docs.pycom.io/chapter/firmwareapi/pycom/network/sigfox.html
