@@ -9,6 +9,7 @@ In this step, you will create an instance of Node-RED running on IBM Cloud.
 3.-Under Platform, click Boilerplates. 
 
 
+
 From the boilerplates list, click Node-RED Starter. 
 
 
