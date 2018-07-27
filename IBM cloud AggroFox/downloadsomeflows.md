@@ -11,3 +11,5 @@
 3.- Type "Dashboard" and install the Node-RED dashboard!
 
 <img src="https://preview.ibb.co/iRyLG8/dashboard1.jpg">
+
+4.- Now you have everything to create an amazing dashboard!
