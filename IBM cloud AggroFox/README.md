@@ -30,3 +30,7 @@ If you are using an IBM Cloud Lite account, you need to choose the Internet of T
 8.- Click Visit App URL to open your running Node-RED application to see the landing page of your Node-RED instance. 
 
 <img src="https://preview.ibb.co/ekq9b8/aggrofox1.png">
+
+9.- Very Advisable! Follow the steps to secure your instance (which is advisable) by creating a user name and password. 
+
+<img src="https://preview.ibb.co/eZysUT/securityyy.png">
