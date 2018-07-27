@@ -1,4 +1,4 @@
-<img src="https://image.ibb.co/krATKT/agrofoxlogo.png" width="800">
+<img src="https://image.ibb.co/krATKT/agrofoxlogo.png" width="200">
 
 # AggroFox
 
