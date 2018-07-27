@@ -37,4 +37,4 @@ If you are using an IBM Cloud Lite account, you need to choose the Internet of T
 
 10.- Click Go to your Node-RED flow editor to open the editor. 
 
-11.- Welcome to Node-Red via IBM cloud!
+11.- Welcome to Node-RED via IBM cloud!
