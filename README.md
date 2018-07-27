@@ -1,6 +1,6 @@
-<img src="https://image.ibb.co/krATKT/agrofoxlogo.png" width="200">
 
-# AggroFox
+
+# AggroFox <img src="https://image.ibb.co/krATKT/agrofoxlogo.png" width="200">
 
 AggroFox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
