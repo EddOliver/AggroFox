@@ -1,5 +1,7 @@
 # Circuit Characteristics:
 
+This is the implementation of the necessary circuits for the system.
+
 # Table of contents
 * [Sigfox Module](#sigfox-module)
 * [Valve Module](#valve-module)
