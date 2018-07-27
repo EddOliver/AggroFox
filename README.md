@@ -19,7 +19,20 @@ Our solution to the problem is to realize a sustainable model of sensing and irr
 
 <img src="https://image.ibb.co/jCENyo/Esquematico.png" width="800">
 
-1.- 
+1.- Using temperature and humidity sensors for air and ground we use an Arduino controller to obtain sensor data every 6 min.
+
+1.1.- Each sensing is done at this frequency to send 120 data per day and not pass the data quota of Sigfox which is 140 data per day.
+
+1.2.- For this system it was decided to use an Arduino board to obtain the data and send them through Serial at 9600 baud rate to the Pycom board.
+
+1.3.- Once on the Pycom board we receive the data from the sensors and through Sigfox we send them to your Sigfox Backend platform.
+
+2.- Once the data in the platform of Sigfox Backend send the data through a callback to the website of Thingspeak through its API (more information in the link below).
+
+Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf)
+
+3.- DOC DESDE AQUI TU DESCRIBES.
+
 
 ## Where should I start:
 
