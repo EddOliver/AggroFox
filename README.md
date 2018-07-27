@@ -1,4 +1,4 @@
-[Logo](https://image.ibb.co/kCoXeT/chacala.png)
+<img src="https://image.ibb.co/kCoXeT/chacala.png">
 
 AggroFox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
