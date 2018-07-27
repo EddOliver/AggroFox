@@ -15,7 +15,7 @@ From the boilerplates list, click Node-RED Starter.
 
 If you are using an IBM Cloud Lite account, you need to choose the Internet of Things Platform Starter, instead.
 
-<img src: "https://image.ibb.co/g6WROo/iotstarter.jpg">
+<img src="https://image.ibb.co/g6WROo/iotstarter.jpg">
 
 
 Give your Node-RED starter application a unique name and host name. The host name does not need to be the same as the app name, but it can be the same. 
