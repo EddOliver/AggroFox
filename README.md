@@ -39,5 +39,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Circuit
 
 6.- Link it to IBM IoT Cloud for amazing dashboards, data storage and access to other cloud services.
 
+Link: https://github.com/EddOliver/AggroFox/tree/master/IBM%20cloud%20AggroFox
+
 7.- Enjoy!
 
