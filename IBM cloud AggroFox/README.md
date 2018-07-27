@@ -25,7 +25,7 @@ If you are using an IBM Cloud Lite account, you need to choose the Internet of T
 6.-Select Create. 
 
 
-7.-Wait for your new application to start, then click on the cloud service it contains.
+7.-Wait for your new application to start, it can take a while.... then click on the cloud service it contains.
 
 8.- Click Visit App URL to open your running Node-RED application to see the landing page of your Node-RED instance. 
 
