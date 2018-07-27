@@ -6,6 +6,8 @@ https://github.com/EddOliver/AggroFox/blob/master/IBM%20cloud%20AggroFox/Createn
 
 2.- Download a couple of Node-RED flows:
 
+https://github.com/EddOliver/AggroFox/blob/master/IBM%20cloud%20AggroFox/downloadsomeflows.md
+
 3.- Do a dashboard!:
 
 4.- Enjoy your magnificent Node-RED dashboard that you can check from everywhere!
