@@ -1,5 +1,8 @@
 <img src="https://image.ibb.co/krATKT/agrofoxlogo.png" width="200">
-Agrofox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
+
+# AggroFox
+
+AggroFox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
 <img src="https://image.ibb.co/bGpAYo/agrofox.png" width="800">
 
