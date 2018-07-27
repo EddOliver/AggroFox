@@ -34,3 +34,7 @@ If you are using an IBM Cloud Lite account, you need to choose the Internet of T
 9.- Very Advisable! Follow the steps to secure your instance (which is advisable) by creating a user name and password. 
 
 <img src="https://preview.ibb.co/eZysUT/securityyy.png">
+
+10.- Click Go to your Node-RED flow editor to open the editor. 
+
+11.- Welcome to Node-Red via IBM cloud!
