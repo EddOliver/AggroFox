@@ -17,23 +17,23 @@ Bill of Materials:
 - DS18B20 Sensor.
 - 3 Resistances of 1kohm.
 - 1 Resistance of 4.7kohm.
-- Cable, Welding, Jump wire or similar.
+- Cable, Solder, Jump wire or similar.
 
 <img src="https://image.ibb.co/kqWAb8/Agrofox_bb.png" width="800">
 
 ## Valve Module: 
 
-Once the main circuit is completed, perform the automated irrigation valve.
+Once the main circuit is completed, make the automated irrigation valve.
 
 Bill of Materials:
 
 - Photon Particle (or any other Wifi board).
 - TIP120
 - 12v Source.
-- Valve Solenoid Nc 1/2.
-- Diode 4007.
+- Solenoid Valve Nc 1/2.
+- Diode 1N4007.
 - 1 Resistances of 2.2kohm.
-- Cable, Welding, Jump wire or similar.
+- Cable, Solder, Jump wire or similar.
 
 <img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" width="500">
 
