@@ -7,3 +7,7 @@
 2.- Then go to install.
 
 <img src="https://preview.ibb.co/gEgqG8/install.jpg">
+
+3.- Type "Dashboard" and install the Node-RED dashboard!
+
+<img src="https://preview.ibb.co/iRyLG8/dashboard1.jpg">
