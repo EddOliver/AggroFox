@@ -59,7 +59,9 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 3.1.1.3.-  Water automatization systems with the data obtained (as we do in this project).
 
-3.2.- We make a Dashboard with the data obtained for the complete and simple visualization of the data.
+3.2.- We made a Dashboard with the data obtained for the complete and simple visualization of the data.
+
+<img src="https://image.ibb.co/ejny4T/nodedash.jpg">
 
 3.2.1.- For the application we made, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
 
