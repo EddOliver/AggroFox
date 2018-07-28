@@ -66,6 +66,6 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/F
 
 After having made the first configuration and tested the Sigfox module (in this case the Pycom), follow the following steps in the following link:
 
-Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf
+Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
 Official Pycom WebPage Documents: https://docs.pycom.io/chapter/firmwareapi/pycom/network/sigfox.html
