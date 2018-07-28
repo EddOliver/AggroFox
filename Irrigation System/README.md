@@ -34,8 +34,8 @@ msg.count = msg.payload
 return msg;
 ```
 
-What this does is to seek the weather condition that we desire which is "Rain" and it puts it into the payload of the flow.
+What this does, is to seek the weather condition that we desire which is "Rain" and it puts it into the payload of the flow.
 
 You can also grab a Text Dashboard node and connect it to this flow to get this info to the dashboard.
 
-5.-
+5.- 
