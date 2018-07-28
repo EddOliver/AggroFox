@@ -31,7 +31,22 @@ Our solution to the problem is to realize a sustainable model of sensing and irr
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf)
 
-3.- DOC DESDE AQUI TU DESCRIBES.
+3.- Once we have the data in Thingspeak, through the thingspeak API we obtain the data to IBM Bluemix.
+
+3.1.- Once on the Bluemix platform, we made it possible to develop almost any application with the obtained data (All the applications were based on Node Red to make the prototype easier).
+
+3.1.1.- Examples of these applications:
+3.1.1.1.- Generate databases of our crops and their conditions.
+3.1.1.2.-  Do data analysis to obtain predictive models in the long term.
+3.1.1.3.-  Reliza automation systems with the data obtained (as we do in this project).
+
+3.2.- We make a Dashboard with the data obtained for the complete and simple visualization of the data.
+
+3.2.1.- For the application we made, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
+3.2.2.- The crossing of data obtained is used to check if that day is going to rain and thus not use irrigation water in crops
+3.2.3.- Also if the system detects that water is needed in the field by the humidity sensors, the irrigation system is turned on.
+
+3.3.- In turn once a day an email will be sent to the farmer with the general information of his field.
 
 
 ## Where should I start:
