@@ -33,7 +33,7 @@ If only there was a way to monitor the field through a network of sustainable se
 
 Our solution to the problem is to realize a sustainable model of sensing and irrigation automation.
 
-<img src="https://image.ibb.co/jCENyo/Esquematico.png" width="800">
+<img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
 1.- Using temperature and humidity sensors for air and ground we use an Arduino controller to obtain sensor data every 6 min.
 
