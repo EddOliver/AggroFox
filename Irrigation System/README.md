@@ -31,7 +31,8 @@ Double click the function node and paste the following code:
 ```Javascript
 msg.payload= msg.payload[0].weather[0].main
 msg.count = msg.payload
-return msg;```
+return msg;
+```
 
 What this does is to seek the weather condition that we desire which is "Rain" and it puts it into the payload of the flow.
 
