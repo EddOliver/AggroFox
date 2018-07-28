@@ -46,7 +46,7 @@ Our solution to the problem is to realize a sustainable model of sensing and irr
 
 2.- Once the data in the platform of Sigfox Backend send the data through a callback to the website of Thingspeak through its API (more information in the link below).
 
-Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf)
+Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
 3.- Once we have the data in Thingspeak, through the thingspeak API we obtain the data to IBM Bluemix.
 
