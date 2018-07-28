@@ -81,7 +81,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/F
 
 2.- Enter the folder of AggroFox Configuration and complete all the steps to perform the corresponding configuration.
 
-Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf
+Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
 3.- Do the Arduino configuration.
 
