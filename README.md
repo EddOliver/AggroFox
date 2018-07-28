@@ -47,7 +47,7 @@ Our solution to the problem is to realize a sustainable model of sensing and irr
 
 <img src="https://image.ibb.co/b04QZT/Agrofox_bb.png" height="210"><img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" height="210"><img src="https://image.ibb.co/nm4M8o/20180722_232844304_i_OS.jpg" height="210">
 
----------------A: Principal Circuit.---------------B: Solenoid Valve.---------------C: Real Implementation.
+--------------------A: Principal Circuit.--------------------B: Solenoid Valve.--------------------C: Real Implementation.
 
 2.- Once the data in the platform of Sigfox Backend send the data through a callback to the website of Thingspeak through its API (more information in the link below).
 
