@@ -38,4 +38,45 @@ What this does, is to seek the weather condition that we desire which is "Rain" 
 
 You can also grab a Text Dashboard node and connect it to this flow to get this info to the dashboard.
 
-5.- 
+5.- Get a Particle Photon and build the following circuit:
+
+https://github.com/EddOliver/AggroFox/tree/master/Circuit#valve-module
+
+6.- Go to your particle IDE and paste the following Code:
+
+https://github.com/EddOliver/AggroFox/blob/master/Irrigation%20System/Photoncode.ino
+
+The main point of the code is understanding that it creates a function that can be accessed via the particle cloud. Whenever you input certain conditions to that functions externally you can do some previous programmed actions.
+
+Flash it and go back to Node-RED. If you need aditional help with the Photon go directly to www.particle.io/start for a great place to begin.
+
+7.- Now in Node-RED make a flow like so:
+
+<img src="https://image.ibb.co/nyOG8o/particle.jpg">
+
+The Particle node is indeed the function node.
+
+8.- Double click on the Particle node and click on the pencil on "Add new particle cloud". Then fill it like so:
+
+<img src="https://image.ibb.co/gx49B8/particle1.jpg">
+
+Your access token is in your particle IDE, Devices section and clicking on the current device you are using.
+Update and in the next screen fill it with your device name that you can get on the Particle IDE and also on "CLoud Function" input "led".
+
+9.- Now your Particle Photon node is configured to get an "on" or "off" payload and do the appropriate action with it. 
+
+10.- To configure properly the email node you have to log in to your gmail account and then go to: http://myaccount.google.com/u/1/lesssecureapps and turn it on, if you followed this guide accordingly, you set a password and username to your Node-RED so this procedure should be safe.
+
+Then just fill the required fields.
+
+
+11.- The most important step:
+
+Finnally, you have reached the ending of this tutorial so you have an idea of how to do the main parts of the project. Next is to do your own and use the concepts to get to a final product like the one presented here. There is also the main Flow that we did but we strongly suggest the reader to do their own harvest.
+
+Keep Hacking!
+
+
+
+
+
