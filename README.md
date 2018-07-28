@@ -1,6 +1,6 @@
 <img src="https://image.ibb.co/kCoXeT/chacala.png">
 
-AggroFox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
+AggroFx notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
 <img src="https://image.ibb.co/bGpAYo/agrofox.png" width="800">
 
