@@ -104,7 +104,9 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/IBM%20cloud%20AggroFox
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Irrigation%20System
 
-8.- Enjoy!
+8.- Going Green (Add a Solar panel to your sensor module).
+
+Link: 
 
 # References:
 
