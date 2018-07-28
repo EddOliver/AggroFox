@@ -11,7 +11,19 @@ AggroFox notification, dashboard and analytics for in house and large-scale agri
 
 ## Introduction:
 
+Imagine a world where there is not enough food for you and your loved ones, an arid world where there is nothing to satisfy your hunger, because the current methods of agriculture, where excess fertilizers and pestices are used, do not allow sustainable agriculture.
 
+## Problematic:
+
+<img src="http://images.teinteresa.es/tierra/Campo-debido-prolongada-sequia-verano_TINIMA20120726_0294_5.jpg" width="800">
+
+• The population in Mexico and in the world takes advantage
+• By 2050 the production of food suppose that double.
+• The amount of arable land does not increase
+• The amount of water available it is decreasing
+• Disruption is needed sustainable.
+
+If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud to generate a sustainable risk taking information from the environment and above all being powered by solar cells ....... oh wait, there is Agrofox!
 
 ## Our Solution:
 
@@ -43,9 +55,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 3.1.1.3.-  Water automatization systems with the data obtained (as we do in this project).
 
-3.2.- We made a Dashboard with the data obtained for the complete and simple visualization of the data.
-
-<img src="https://image.ibb.co/ejny4T/nodedash.jpg">
+3.2.- We make a Dashboard with the data obtained for the complete and simple visualization of the data.
 
 3.2.1.- For the application we made, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
 
