@@ -41,7 +41,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 3.1.1.2.-  Do data analysis to obtain predictive models in the long term.
 
-3.1.1.3.-  Reliza automation systems with the data obtained (as we do in this project).
+3.1.1.3.-  Water automatization systems with the data obtained (as we do in this project).
 
 3.2.- We make a Dashboard with the data obtained for the complete and simple visualization of the data.
 
