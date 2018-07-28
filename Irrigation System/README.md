@@ -14,10 +14,10 @@ Without further ado:
 
 1.- Get to: https://openweathermap.org/ and Sign up.
 
-2.- After that then simply go to Sign In and click on API Keys, copy the API KEY.
+2.- After that then simply go to Sign In and click on API Keys, then copy the API KEY.
 
 <img src="https://image.ibb.co/nvKpTo/openweather.jpg">
 
 3.- Go then to your Node-RED flow. Remember the openweathermap node? Drag it to the Node-RED dashboard and configure it like so:
 
-
+<img src="https://image.ibb.co/k1DV18/apikeyweather.jpg">
