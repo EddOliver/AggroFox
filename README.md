@@ -105,3 +105,8 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Irrigation%20System
 
 8.- Enjoy!
 
+# References:
+
+All the information about the technology used and direct references are in our wiki:
+
+Wiki: https://github.com/EddOliver/AggroFox/wiki
