@@ -28,7 +28,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 • Disruption is needed sustainable.
 
-If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud to generate a sustainable risk taking information from the environment and above all being powered by solar cells ....... oh wait, there is Agrofox!
+If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud to generate a sustainable risk taking information from the environment and above all being powered by solar cells ....... oh wait, there is Aggrofox!
 
 ## Our Solution:
 
