@@ -21,3 +21,17 @@ Without further ado:
 3.- Go then to your Node-RED flow. Remember the openweathermap node? Drag it to the Node-RED dashboard and configure it like so:
 
 <img src="https://image.ibb.co/k1DV18/apikeyweather.jpg">
+
+4.- Remember to paste an "Inject" node before, a "function" node after and also a "debug" node if you wish to check what has been transfered.
+
+<img src="https://image.ibb.co/dMt8oo/openw.jpg">
+
+Double click the function node and paste the following code:
+
+msg.payload= msg.payload[0].weather[0].main
+msg.count = msg.payload
+return msg;
+
+What this does is to seek the weather condition that we desire which is "Rain" and it puts it into the payload of the flow.
+
+5.-
