@@ -7,3 +7,17 @@ The use of tracking the forecast of the weather is the main purpose of the proje
 What use there is of having a sensor that tracks that the soil is dry and activate an irrigation system with that info, but it is going to rain that same day?
 
 We can save a lot of water simply by using the weather forecast systems available to notify our platform that it is going to rain and stop from using water that day.
+
+And of course we want to automate everything.
+
+Without further ado:
+
+1.- Get to: https://openweathermap.org/ and Sign up.
+
+2.- After that then simply go to Sign In and click on API Keys, copy the API KEY.
+
+<img src="https://image.ibb.co/nvKpTo/openweather.jpg">
+
+3.- Go then to your Node-RED flow. Remember the openweathermap node? Drag it to the Node-RED dashboard and configure it like so:
+
+
