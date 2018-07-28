@@ -12,6 +12,6 @@
 
 <img src="https://preview.ibb.co/iRyLG8/dashboard1.jpg">
 
-4.- Repeat the same process with the openweathermap node typing "openweathermap". These are the nodes you will be using.
+4.- Repeat the same process with the openweathermap node typing "openweathermap". Also search for "Particle" and get the "node-red-contrib-particle" flows. These are the nodes you will be using coming forward.
 
 
