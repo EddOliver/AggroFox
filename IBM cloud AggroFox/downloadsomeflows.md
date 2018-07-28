@@ -12,4 +12,10 @@
 
 <img src="https://preview.ibb.co/iRyLG8/dashboard1.jpg">
 
-4.- Now you have everything to create an amazing dashboard!
+4.- Repeat the same process with the openweathermap node typing "openweathermap".
+
+5.- Get an "inject" node, a "http request", a "function" and a dashboard "gauge" node into the Node-RED dashboard:
+
+<img src="https://image.ibb.co/hkyG8o/nodes.jpg">
+
+5.- Now you have everything to create an amazing dashboard!
