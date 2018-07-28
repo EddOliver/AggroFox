@@ -108,6 +108,8 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Irrigation%20System
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Solar%20Power
 
+Enjoy!!
+
 # References:
 
 All the information about the technology used and direct references are in our wiki:
