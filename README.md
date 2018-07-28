@@ -79,7 +79,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/First%20Configuration
 
-2.- Enter the folder of Agro Fox Configuration and complete all the steps to perform the corresponding configuration.
+2.- Enter the folder of AggroFox Configuration and complete all the steps to perform the corresponding configuration.
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Agrofox%20Conf
 
