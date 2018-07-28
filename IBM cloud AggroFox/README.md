@@ -12,5 +12,5 @@ https://github.com/EddOliver/AggroFox/blob/master/IBM%20cloud%20AggroFox/downloa
 
 3.- Do a dashboard!:
 
-4.- Enjoy your magnificent Node-RED dashboard that you can check from everywhere!
+4.- Enjoy your magnificent Node-RED dashboard that you can check from everywhere! Check the flow code if you had any trouble.
 
