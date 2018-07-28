@@ -9,6 +9,7 @@ AggroFox notification, dashboard and analytics for in house and large-scale agri
 * [Problematic](#problematic)
 * [Our Solution](#our-solution)
 * [Where should I start?](#where-should-i-start)
+* [References](#references)
 
 ## Introduction:
 
