@@ -74,6 +74,8 @@ Then just fill the required fields.
 
 Finnally, you have reached the ending of this tutorial so you have an idea of how to do the main parts of the project. Next is to do your own and use the concepts to get to a final product like the one presented here. There is also the main Flow that we did but we strongly suggest the reader to do their own harvest.
 
+Example code with some hints: https://github.com/EddOliver/AggroFox/blob/master/IBM%20cloud%20AggroFox/noderedflow.txt
+
 Keep Hacking!
 
 
