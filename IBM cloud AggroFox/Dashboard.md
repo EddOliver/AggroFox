@@ -40,3 +40,12 @@ Click on update and then Done.
 
 
 5.- Now you have everything to create an amazing dashboard! Get to creating the next modules doing the same procedure and you can check also the sample finished flow!
+
+To check on your dashboard just go to: https://THE_NAME_OF_YOUR_IBM_CLOUD_FOUNDRY_APP.mybluemix.net/ui
+
+A complete dashboard should look like this:
+
+<img src="https://image.ibb.co/jd2CET/dashboardo.jpg">
+
+Good Luck designing.
+
