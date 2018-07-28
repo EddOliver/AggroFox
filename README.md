@@ -45,9 +45,7 @@ Our solution to the problem is to realize a sustainable model of sensing and irr
 
 1.3.- Once on the Pycom board we receive the data from the sensors and through Sigfox we send them to your Sigfox Backend platform.
 
-<img src="https://image.ibb.co/b04QZT/Agrofox_bb.png" height="210"><img src="https://image.ibb.co/eJodM8/Circuit_Agrovalve.png" height="210"><img src="https://image.ibb.co/nm4M8o/20180722_232844304_i_OS.jpg" height="210">
-
-|-------------------A: Principal Circuit---------------------------------|B: Solenoid Valve----|-----------C: Real Implementation----------------|
+<img src="https://image.ibb.co/kkshg8/chacala2.png">
 
 2.- Once the data in the platform of Sigfox Backend send the data through a callback to the website of Thingspeak through its API (more information in the link below).
 
