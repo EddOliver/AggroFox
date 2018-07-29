@@ -58,7 +58,7 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/bGNtpT/chacala3.png">
 
-On the image you can see at: A)The main sensor circuit, with the Pycom FiPy with Sigfox and the sensors connected, also the solar power management. B) The irrigation system circuit that uses a Particle Photon and a Solenoid Valve. And C) an implementation of the system.
+On the image above you can see at: A)The main sensor circuit, with the Pycom FiPy with Sigfox and the sensors connected, also the solar power management. B) The irrigation system circuit that uses a Particle Photon and a Solenoid Valve. And C) an implementation of the system.
 
 <img src="https://image.ibb.co/h5drR8/Whats_App_Image_2018_07_29_at_01_22_33.jpg" width="600">
 
