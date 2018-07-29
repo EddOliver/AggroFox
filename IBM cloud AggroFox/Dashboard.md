@@ -20,9 +20,11 @@ Click on Done.
 
 3.- Go to the "function" node rename it to "Field 1" and paste the next code:
 
+```Javascript
 msg.payload = msg.payload.field1
 msg.topic= msg.payload;
 return msg;
+```
 
 Here you are setting the payload to be the content of the field 1 of the last json of thinkspeak.
 
