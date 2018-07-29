@@ -90,7 +90,7 @@ In this image you can see the Node-RED flow and the Dashboard we made.
 
 <img src="https://image.ibb.co/f4Gd68/Whats_App_Image_2018_07_29_at_01_21_52.jpg">
 
-This other images above show the Web Desktop Dashboard and some screenshots ot the mobile version.
+These other images above show the Web Desktop Dashboard and some screenshots of the mobile version.
 
 - For the application, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
 
@@ -101,6 +101,10 @@ This other images above show the Web Desktop Dashboard and some screenshots ot t
 - In turn once a day an email will be sent to the farmer with the general information of his field or he can check anytime on his dashboard.
 
 - Also everytime the irrigation system is online, a notification will be sent.
+
+Here is a Video of AggroFox in action!:
+
+PLACEHOLDER FOR EMBEDED VIDEO
 
 
 ## Where should I start:
