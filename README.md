@@ -9,7 +9,7 @@ AggroFox is an IoT sensing, notifications, dashboard and analytics platform for 
 * [Problematic](#problematic)
 * [Our Solution](#our-solution)
 * [Where should I start?](#where-should-i-start)
-* [Future Rollout](#future_rollout)
+* [Future Rollout](#future-rollout)
 * [References](#references)
 
 ## Introduction:
