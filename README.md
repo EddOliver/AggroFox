@@ -62,7 +62,7 @@ On the image above you can see at: A)The main sensor circuit, with the Pycom FiP
 
 <img src="https://image.ibb.co/h5drR8/Whats_App_Image_2018_07_29_at_01_22_33.jpg" width="600">
 
-This other image shows the finished Hardware product, with the irrigation system on the left and the sensor system on the right.
+This other image shows the finished Hardware product, with the irrigation system on the left and the sensor system with its solar panel on the right.
 
 2.- Once the data is in the Sigfox Backend, we send the data through a callback to the Thingspeak website through its API (more information in the link below).
 
