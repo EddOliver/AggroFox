@@ -21,7 +21,7 @@ Our Fields:
 - Humidity Air [%]
 - Heat Index Air [C°]
 
-<img src="https://image.ibb.co/djsDUT/graficos.png" width="740"> 
+<img src="https://image.ibb.co/kJ5k3o/thingspeak.png" width="740"> 
 
 # Sigfox Backend Configuration
 
