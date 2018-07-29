@@ -79,6 +79,8 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 <img src="https://image.ibb.co/ejny4T/nodedash.jpg">
 
+In this image you can see the Node-RED flow and the Dashboard we made.
+
 - For the application, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
 
 - The crossing of data obtained is used to check if that day is going to rain and thus not use irrigation water in crops.
@@ -137,7 +139,7 @@ Enjoy!!
 
 • Expand to the use of several other clouds such as AWS and Google cloud which we already dominate.
 
-• Replace the photon with Sigfox for the actuators so it uses only one communication platform.
+• Replace the Particle Photon with Sigfox for the actuators so it uses only one communication platform.
 
 
 # References:
