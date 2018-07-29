@@ -2,7 +2,7 @@
 
 AggroFox is an IoT sensing, notifications, dashboard and analytics platform for urban and large-scale agriculture, with automated irrigation, using Sigfox technology. 
 
-<img src="https://image.ibb.co/gQskm8/68747470733a2f2f696d6167652e6962622e636f2f62477041596f2f6167726f666f782e706e67.png" width="801">
+<img src="https://image.ibb.co/n84O68/agrofox_Recuperado.png" width="801">
 
 # Table of contents
 * [Introduction](#introduction)
