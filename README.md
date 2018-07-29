@@ -1,6 +1,6 @@
 <img src="https://image.ibb.co/fFLSzT/68747470733a2f2f696d6167652e6962622e636f2f6b436f5865542f63686163616c612e706e67.png">
 
-AggroFox is a platform notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
+AggroFox: IoT Sensing, notifications, dashboard and analytics platform for urban and large-scale agriculture using Sigfox technology.
 
 <img src="https://image.ibb.co/gQskm8/68747470733a2f2f696d6167652e6962622e636f2f62477041596f2f6167726f666f782e706e67.png" width="801">
 
