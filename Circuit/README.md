@@ -25,7 +25,7 @@ Bill of Materials:
 - Lithium Battery (3.7v, 500mA).
 - Cable, Solder, Jump wire or similar.
 
-<img src="https://image.ibb.co/b04QZT/Agrofox_bb.png" width="800">
+<img src="https://image.ibb.co/hpCnG8/Circuito_Agro.png" width="800">
 
 ## Valve Module: 
 
