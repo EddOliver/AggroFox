@@ -50,6 +50,7 @@ We show an example of the actual implementation of the circuit.
 <img src="https://image.ibb.co/d58G9T/68747470733a2f2f696d6167652e6962622e636f2f676f3367386f2f32303138303732375f3139333833333030365f695f4f532e6a7067.jpg" width="500">
 
 AggroFox 
+
 <img src="https://image.ibb.co/h5drR8/Whats_App_Image_2018_07_29_at_01_22_33.jpg" width="800">
 
 Valve only 
