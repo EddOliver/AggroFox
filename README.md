@@ -37,7 +37,7 @@ If only there was a way to monitor the field through a network of sustainable se
 
 ## Our Solution:
 
-Our solution to the problem was to create a sustainable model of sensing and irrigation automation.
+Our solution to the problem was to create a sustainable platform of sensing and irrigation automation with predictive analysis via cloud.
 
 <img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
