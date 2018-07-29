@@ -41,7 +41,7 @@ Each of the different models of boards that use this technology have different w
 3.11- WebPage: https://buy.sigfox.com/ 
 
 3.111- Clic in the button "Activate my DevKit"
-<img src="https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png" width="800">
+<img src="https://image.ibb.co/kT5DpT/68747470733a2f2f707265766965772e6962622e636f2f6275437774642f436170747572615f64655f70616e74616c6c615f64655f323031385f30375f32315f30325f30375f31342e706e67.png" width="800">
 
 3.112- Complete the registration.
 
@@ -55,8 +55,8 @@ Device - [ID] - Messages
 
 Reference Images:
 
-<img src="https://preview.ibb.co/nh6ZeJ/Captura_de_pantalla_de_2018_07_21_02_39_24.png" width="800">
-<img src="https://preview.ibb.co/fnbT6y/Captura_de_pantalla_de_2018_07_21_02_41_31.png" width="800">
+<img src="https://image.ibb.co/go0eUT/68747470733a2f2f707265766965772e6962622e636f2f6e68365a654a2f436170747572615f64655f70616e74616c6c615f64655f323031385f30375f32315f30325f33395f32342e706e67.png" width="800">
+<img src="https://image.ibb.co/ijVPw8/68747470733a2f2f707265766965772e6962622e636f2f666e625436792f436170747572615f64655f70616e74616c6c615f64655f323031385f30375f32315f30325f34315f33312e706e67.png" width="800">
 
 5.- Make the corresponding code for the board you are using to make the first data upload to the platform. (In this folder we provide the codes to send the first data from Pycom).
 
