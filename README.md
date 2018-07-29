@@ -39,7 +39,7 @@ Let's take a look at some FACTS:
 
 • Urban agriculture needs a cheap and readily available solution, for it to be sustainable.
 
-If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud and taking weather predictions to generate models. Taking all this information to manage resources such as water, in order to save most of them, and above all being powered by solar cells ....... oh wait, there is Aggrofox!
+If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud and taking weather predictions to generate models. Taking all this information to manage resources such as water, in order to save most of them, and above all being powered by solar panels ....... oh wait, there is Aggrofox!
 
 ## Our Solution:
 
