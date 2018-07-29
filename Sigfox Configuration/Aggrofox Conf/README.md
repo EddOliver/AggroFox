@@ -29,19 +29,19 @@ Our Fields:
 
 2.- Enter your Device type.
 
-<img src="https://image.ibb.co/eDO6G8/callback1.png" width="740"> 
+<img src="https://image.ibb.co/gf57G8/68747470733a2f2f696d6167652e6962622e636f2f65444f3647382f63616c6c6261636b312e706e67.png" width="740"> 
 
 3.- Enter your Callback Configuration.
 
-<img src="https://image.ibb.co/cBh0b8/callback2.png" width="740"> 
+<img src="https://image.ibb.co/cCWQ3o/68747470733a2f2f696d6167652e6962622e636f2f6342683062382f63616c6c6261636b322e706e67.png" width="740"> 
 
 4.- Create your custom callback.
 
-<img src="https://image.ibb.co/mznmio/Custom.png" width="740"> 
+<img src="https://image.ibb.co/n7Rsio/68747470733a2f2f696d6167652e6962622e636f2f6d7a6e6d696f2f437573746f6d2e706e67.png" width="740"> 
 
 5.- Set all the fields as indicated below.
 
-<img src="https://image.ibb.co/eBNK3o/send.png" width="740"> 
+<img src="https://image.ibb.co/mbcb9T/68747470733a2f2f696d6167652e6962622e636f2f65424e4b336f2f73656e642e706e67.png" width="740"> 
 
 5.1.- In this section we have to configure two fundamental things, the data we will receive in Sigfox and how we will send them to the website, in this case for our application we will receive 6 bytes of information, which are declared "Custom payload config" , for example:
 
