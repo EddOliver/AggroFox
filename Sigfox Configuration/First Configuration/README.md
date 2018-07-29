@@ -2,7 +2,7 @@
 
 The first step to be able to use the Sigfox services, you must have the necessary hardware like the ones shown on the official website: https://partners.sigfox.com/products/device
 
-In this project, we are using a Pycom Fipy Board, which in addition to the services of LoRa, LTE Cat-M1 / NB-IoT, Wifi, Etc... has the embebed service of Sigfox, in addition to a free subscription for two years to their platform.
+In this project, we are using a Pycom FiPy Board, which in addition to the services of LoRa, LTE Cat-M1 / NB-IoT, Wifi, Etc... has embeded the Sigfox connectivity, in addition to a free subscription for two years to their platform.
 
 # Before starting
 
@@ -29,18 +29,18 @@ Each of the different models of boards that use this technology have different w
 
 2.- Obtain the Device ID and PAC number from your board.
 
-2.1- For Pycom card this is easily obtained after doing a software update.
+2.1- For the Pycom board this is easily obtained after doing a software update.
 
-2.11-Automatically the program indicates both numbers and indicates the number for the LoRa registration (in case you also save it for another project).
+2.11-Automatically the program indicates both numbers for the LoRa and Sigfox registration (in case you want to save it for another project).
 
 
-3.- Make the registration of your hardware on the official website of Sigfox.
+3.- Make the registration of your hardware on the official Sigfox website.
 
-3.1- The registration on the page is very simple, it is also good practice to give some information of your project in the registry to support the company to improve their services.
+3.1- The registration on the page is very simple, it is also good practice to give some information of your project in the registry to support the company, and help them to improve their services.
 
 3.11- WebPage: https://buy.sigfox.com/ 
 
-3.111- Clic in this button "Activate my DevKit"
+3.111- Clic in the button "Activate my DevKit"
 <img src="https://preview.ibb.co/buCwtd/Captura_de_pantalla_de_2018_07_21_02_07_14.png" width="800">
 
 3.112- Complete the registration.
@@ -64,7 +64,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/F
 
 # Next Step
 
-After having made the first configuration and tested the Sigfox module (in this case the Pycom), follow the following steps in the following link:
+After having made the first configuration and tested the Sigfox module (in this case the Pycom), follow the steps in the following link:
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
