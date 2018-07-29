@@ -21,7 +21,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 Let's take a look at some FACTS:
 
-• The population in Mexico (Both the author's own country) and in the world will grow.
+• The population in Mexico (Both of the author's own country) and in the world will grow.
 
 • By 2050 the production of food will have to DOUBLE to feed this population.
 
