@@ -41,13 +41,13 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
-1.- Using temperature and humidity sensors for air and ground we use an Arduino controller to obtain sensor data every 6 min.
+1.- Using temperature and humidity, soil moisture and soil temperature sensors, we use a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min.
 
-1.1.- Each sensing is done at this frequency to send 120 data per day and not pass the data quota of Sigfox which is 140 data per day.
+- Each batch of sensing is done at this frequency to send 120 data per day and not pass the data quota of Sigfox which is 140 data packets per day.
 
-1.2.- For this system it was decided to use an Arduino board to obtain the data and send them through Serial at 9600 baud rate to the Pycom board.
+- For this system it was decided to use an Arduino board to obtain the data from the sensors (using the vast array of libraries from Arduino) and send them through Serial at 9600 baud rate to the Pycom FiPy board.
 
-1.3.- Once on the Pycom board we receive the data from the sensors and through Sigfox we send them to your Sigfox Backend platform.
+- Once on the Pycom board we receive the data from the sensors and through Sigfox we send them to the Sigfox Backend platform.
 
 <img src="https://image.ibb.co/kkshg8/chacala2.png">
 
