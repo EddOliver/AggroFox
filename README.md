@@ -47,7 +47,7 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/dvuWR8/68747470733a2f2f696d6167652e6962622e636f2f6b41706434542f45737175656d617469636f2e706e67.png" width="800">
 
-1.- Using temperature and humidity, soil moisture and soil temperature sensors, we use a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min. Sigfox chosen because the characteristics of long range and low power are excellent for remote areas.
+1.- Using temperature with humidity, soil moisture and soil temperature sensors, we used a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min. Sigfox chosen because the characteristics of long range and low power are excellent for remote areas.
 
 - Each batch of sensing is done at this frequency to send 120 data per day and not pass the data quota of Sigfox which is 140 data packets per day.
 
