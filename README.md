@@ -1,6 +1,6 @@
 <img src="https://image.ibb.co/kCoXeT/chacala.png">
 
-AggroFox notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
+AggroFox is a platform notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
 <img src="https://image.ibb.co/bGpAYo/agrofox.png" width="800">
 
@@ -13,7 +13,7 @@ AggroFox notification, dashboard and analytics for in house and large-scale agri
 
 ## Introduction:
 
-Imagine a world where there is not enough food for you and your loved ones, an arid world where there is nothing to satisfy your hunger, because the current methods of agriculture, where excess fertilizers and pestices are used, do not allow sustainable agriculture.
+Imagine a world where there is not enough food for you and your loved ones, an arid world where there is nothing to satisfy your hunger, because of the current methods of agriculture, where excess fertilizers and pesticides have been used. These methods are not sustainable and we have to find new methods to optimize crops. Remember, we cannot create new land to grow crops, and the water reserves are being reduced each year. For that Industry 3.0, with IoT, Big Data and predictive analysis solutions have to emerge.
 
 ## Problematic:
 
@@ -27,7 +27,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 • The amount of water available it is decreasing.
 
-• Disruption is needed sustainable.
+• Sustainable Disruption is needed.
 
 If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud to generate a sustainable risk taking information from the environment and above all being powered by solar cells ....... oh wait, there is Aggrofox!
 
