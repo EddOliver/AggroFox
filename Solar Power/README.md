@@ -8,9 +8,11 @@ We reccomend that you use at least a 2W Solar panel in tandem with a LiPo Batter
 
 The power segment of the circuit is intended to power the circuit via Solar Power during the day and then charge the LiPo battery so it can continue working at night.
 
-For this purpose you can see the Lipo Rider Pro in the image that is a connection module that regulates the LiPo battery charge and the Solar Panel feeding energy to the system.
+For this purpose you can see the Regulator in the image that is a connection module that regulates the LiPo battery charge and the Solar Panel feeding energy to the system.
 
 Here are some reccomended links to these components:
+
+Sunny Buddy: https://www.sparkfun.com/products/12885
 
 Lipo Rider pro: https://www.seeedstudio.com/LiPo-Rider-Pro-p-992.html
 
