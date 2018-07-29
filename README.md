@@ -17,7 +17,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 ## Problematic:
 
-<img src="https://image.ibb.co/nigBR8/687474703a2f2f696d616765732e7465696e7465726573612e65732f7469657272612f43616d706f2d64656269646f2d70726f6c6f6e676164612d7365717569612d766572616e6f5f54494e494d4132303132303732365f303239345f352e6a7067.jpg" width="800">
+<img src="https://image.ibb.co/nc9HYo/farmer_7591.jpg" width="800">
 
 Let's take a look at some FACTS:
 
