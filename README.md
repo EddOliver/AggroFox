@@ -1,8 +1,8 @@
-<img src="https://image.ibb.co/kCoXeT/chacala.png">
+<img src="https://image.ibb.co/fFLSzT/68747470733a2f2f696d6167652e6962622e636f2f6b436f5865542f63686163616c612e706e67.png">
 
 AggroFox is a platform notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
-<img src="https://image.ibb.co/bGpAYo/agrofox.png" width="800">
+<img src="https://image.ibb.co/gQskm8/68747470733a2f2f696d6167652e6962622e636f2f62477041596f2f6167726f666f782e706e67.png" width="800">
 
 # Table of contents
 * [Introduction](#introduction)
@@ -17,7 +17,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 ## Problematic:
 
-<img src="http://images.teinteresa.es/tierra/Campo-debido-prolongada-sequia-verano_TINIMA20120726_0294_5.jpg" width="800">
+<img src="https://image.ibb.co/nigBR8/687474703a2f2f696d616765732e7465696e7465726573612e65732f7469657272612f43616d706f2d64656269646f2d70726f6c6f6e676164612d7365717569612d766572616e6f5f54494e494d4132303132303732365f303239345f352e6a7067.jpg" width="800">
 
 Let's take a look at some FACTS:
 
@@ -45,7 +45,7 @@ If only there was a way to monitor the field through a network of sustainable se
 
 Our solution to the problem was to create a sustainable platform of sensing and irrigation automation with predictive analysis via cloud. With one objective in mind: SAVE WATER.
 
-<img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
+<img src="https://image.ibb.co/dvuWR8/68747470733a2f2f696d6167652e6962622e636f2f6b41706434542f45737175656d617469636f2e706e67.png" width="800">
 
 1.- Using temperature and humidity, soil moisture and soil temperature sensors, we use a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min. Sigfox chosen because the characteristics of long range and low power are excellent for remote areas.
 
@@ -77,7 +77,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 3.1- We made a Dashboard with the data obtained for the complete and simple visualization of the data.
 
-<img src="https://image.ibb.co/ejny4T/nodedash.jpg">
+<img src="https://image.ibb.co/hGifKT/68747470733a2f2f696d6167652e6962622e636f2f656a6e7934542f6e6f6465646173682e6a7067.jpg">
 
 In this image you can see the Node-RED flow and the Dashboard we made.
 
