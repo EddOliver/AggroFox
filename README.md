@@ -43,7 +43,7 @@ If only there was a way to monitor the field through a network of sustainable se
 
 ## Our Solution:
 
-Our solution to the problem was to create a sustainable platform of sensing and irrigation automation with predictive analysis via cloud.
+Our solution to the problem was to create a sustainable platform of sensing and irrigation automation with predictive analysis via cloud. With one objective in mind: SAVE WATER.
 
 <img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
@@ -57,33 +57,35 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/kkshg8/chacala2.png">
 
-2.- Once the data in the platform of Sigfox Backend send the data through a callback to the website of Thingspeak through its API (more information in the link below).
+2.- Once the data is in the Sigfox Backend, we send the data through a callback to the Thingspeak website through its API (more information in the link below).
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
-3.- Once we have the data in Thingspeak, through the thingspeak API we obtain the data to IBM Bluemix.
+3.- Once we have the data at Thingspeak, through the Thingspeak API we send the data to IBM Bluemix.
 
-3.1.- Once on the Bluemix platform, we made it possible to develop almost any application with the obtained data (All the applications were based on Node Red to make the prototype easier).
+- On the Bluemix platform, we made it possible to develop almost any application with the obtained data. (All the applications are based on Node Red to make the prototyping easier).
 
-3.1.1.- Examples of these applications:
+- Examples of these applications:
 
-3.1.1.1.- Generate databases of our crops and their conditions.
+    Generate databases of our crops and their conditions.
 
-3.1.1.2.-  Do data analysis to obtain predictive models in the long term.
+    Do data analysis to obtain predictive models in the long term.
 
-3.1.1.3.-  Water automatization systems with the data obtained (as we do in this project).
+    Water automation systems with the data obtained (as we do in this project).
+    
+    Crop yield analysis.
 
-3.2.- We made a Dashboard with the data obtained for the complete and simple visualization of the data.
+3.1- We made a Dashboard with the data obtained for the complete and simple visualization of the data.
 
 <img src="https://image.ibb.co/ejny4T/nodedash.jpg">
 
-3.2.1.- For the application we made, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
+- For the application, we made a data crossing with the OpenWeatherMap API, to perform the control of an electrovalve connected to a Particle Photon microcontroller.
 
-3.2.2.- The crossing of data obtained is used to check if that day is going to rain and thus not use irrigation water in crops.
+- The crossing of data obtained is used to check if that day is going to rain and thus not use irrigation water in crops.
 
-3.2.3.- Also if the system detects that water is needed in the field by the humidity sensors, the irrigation system is turned on.
+- Also if the system detects that water is needed in the field by the humidity sensors, the irrigation system is turned on.
 
-3.3.- In turn once a day an email will be sent to the farmer with the general information of his field.
+- In turn once a day an email will be sent to the farmer with the general information of his field or he can check anytime on his dashboard.
 
 
 ## Where should I start:
@@ -92,7 +94,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/First%20Configuration
 
-2.- Enter the folder of AggroFox Configuration and complete all the steps to perform the corresponding configuration.
+2.- Enter the following folder: AggroFox Configuration, and complete all the steps to perform the corresponding configuration.
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/Aggrofox%20Conf
 
@@ -104,7 +106,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Arduino%20Code
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Pycom%20Code
 
-5.- Make the circuit:
+5.- Make the circuits:
 
 Link: https://github.com/EddOliver/AggroFox/tree/master/Circuit
 
