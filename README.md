@@ -150,3 +150,7 @@ Enjoy!!
 All the information about the technology used and direct references are in our wiki:
 
 Wiki: https://github.com/EddOliver/AggroFox/wiki
+
+Top
+
+* [Table of Contents](#table-of-contents)
