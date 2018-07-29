@@ -16,7 +16,8 @@ Without further ado:
 
 2.- After that then simply go to Sign In and click on API Keys, then copy the API KEY.
 
-<img src="https://image.ibb.co/nbVJOo/68747470733a2f2f696d6167652e6962622e636f2f6e764b70546f2f6f70656e776561746865722e6a7067.jpg">
+<img src="https://image.ibb.co/nbVJOo/68747470733a2f2f696d6167652e6962622e636f2f6e764b70546f2f6f70656e776561746865722e6a7067.jpg
+">
 
 3.- Go then to your Node-RED flow. Remember the openweathermap node? Drag it to the Node-RED dashboard and configure it like so:
 
