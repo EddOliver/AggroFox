@@ -47,4 +47,4 @@ Bill of Materials:
 
 We show an example of the actual implementation of the circuit.
 
-<img src="https://image.ibb.co/go3g8o/20180727_193833006_i_OS.jpg" width="500">
+<img src="https://image.ibb.co/d58G9T/68747470733a2f2f696d6167652e6962622e636f2f676f3367386f2f32303138303732375f3139333833333030365f695f4f532e6a7067.jpg" width="500">
