@@ -124,6 +124,22 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Solar%20Power
 
 Enjoy!!
 
+
+# Future Rollout
+
+• Adding a water fluxometer to know exactly how much water we use.
+
+• Custom PCB for all the hardware components.
+
+• Maybe migrate to the SiPy version of the Pycom Board.
+
+• Get the data to a SQL database for long term predictive ML models.
+
+• Expand to the use of several other clouds such as AWS and Google cloud which we already dominate.
+
+• Replace the photon with Sigfox for the actuators so it uses only one communication platform.
+
+
 # References:
 
 All the information about the technology used and direct references are in our wiki:
