@@ -88,7 +88,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 In this image you can see the Node-RED flow and the Dashboard we made.
 
-<img src="https://image.ibb.co/f4Gd68/Whats_App_Image_2018_07_29_at_01_21_52.jpg">
+PLACEHOLDER FOR DASHBOARD WITH THE SOIL MOISTURE NOT IN 0
 
 These other images above show the Web Desktop Dashboard and some screenshots of the mobile version.
 
@@ -101,6 +101,10 @@ These other images above show the Web Desktop Dashboard and some screenshots of 
 - In turn once a day an email will be sent to the farmer with the general information of his field or he can check anytime on his dashboard.
 
 - Also everytime the irrigation system is online, a notification will be sent.
+
+Here are some images of the solution implemented on various crops:
+
+PLACEHOLDER FOR IMAGES
 
 Here is a Video of AggroFox in action!:
 
