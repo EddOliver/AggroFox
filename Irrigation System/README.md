@@ -16,15 +16,15 @@ Without further ado:
 
 2.- After that then simply go to Sign In and click on API Keys, then copy the API KEY.
 
-<img src="https://image.ibb.co/nvKpTo/openweather.jpg">
+<img src="https://image.ibb.co/nbVJOo/68747470733a2f2f696d6167652e6962622e636f2f6e764b70546f2f6f70656e776561746865722e6a7067.jpg">
 
 3.- Go then to your Node-RED flow. Remember the openweathermap node? Drag it to the Node-RED dashboard and configure it like so:
 
-<img src="https://image.ibb.co/k1DV18/apikeyweather.jpg">
+<img src="https://image.ibb.co/jdGsio/68747470733a2f2f696d6167652e6962622e636f2f6b31445631382f6170696b6579776561746865722e6a7067.jpg">
 
 4.- Remember to paste an "Inject" node before, a "function" node after and also a "debug" node if you wish to check what has been transfered.
 
-<img src="https://image.ibb.co/dMt8oo/openw.jpg">
+<img src="https://image.ibb.co/d9nMb8/68747470733a2f2f696d6167652e6962622e636f2f644d74386f6f2f6f70656e772e6a7067.jpg">
 
 Double click the function node and paste the following code:
 
@@ -52,13 +52,13 @@ Flash it and go back to Node-RED. If you need aditional help with the Photon go 
 
 7.- Now in Node-RED make a flow like so:
 
-<img src="https://image.ibb.co/nyOG8o/particle.jpg">
+<img src="https://image.ibb.co/n88SG8/68747470733a2f2f696d6167652e6962622e636f2f6e794f47386f2f7061727469636c652e6a7067.jpg">
 
 The Particle node is indeed the function node.
 
 8.- Double click on the Particle node and click on the pencil on "Add new particle cloud". Then fill it like so:
 
-<img src="https://image.ibb.co/gx49B8/particle1.jpg">
+<img src="https://image.ibb.co/kyWgb8/68747470733a2f2f696d6167652e6962622e636f2f6778343942382f7061727469636c65312e6a7067.jpg">
 
 Your access token is in your particle IDE, Devices section and clicking on the current device you are using.
 Update and in the next screen fill it with your device name that you can get on the Particle IDE and also on "CLoud Function" input "led".
