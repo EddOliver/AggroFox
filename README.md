@@ -58,7 +58,7 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/bGNtpT/chacala3.png">
 
-On the image you can see at a)The main sensor circuit, with the Pycom FiPy with Sigfox and the sensors connected, also the solar power management. b) The irrigation system circuit that uses a Particle Photon and a Solenoid Valve. And c) an implementation of the system.
+On the image you can see at: A)The main sensor circuit, with the Pycom FiPy with Sigfox and the sensors connected, also the solar power management. B) The irrigation system circuit that uses a Particle Photon and a Solenoid Valve. And C) an implementation of the system.
 
 2.- Once the data is in the Sigfox Backend, we send the data through a callback to the Thingspeak website through its API (more information in the link below).
 
