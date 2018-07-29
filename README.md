@@ -33,6 +33,12 @@ Let's take a look at some FACTS:
 
 • Current methods are insufficient for this.
 
+• Infrastructure is costly.
+
+• Most fields are in remote areas.
+
+• Urban agriculture needs a cheap and readily available solution, for it to be sustainable.
+
 If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud and taking weather predictions to generate models. Taking all this information to manage resources such as water, in order to save most of them, and above all being powered by solar cells ....... oh wait, there is Aggrofox!
 
 ## Our Solution:
@@ -41,7 +47,7 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 <img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
-1.- Using temperature and humidity, soil moisture and soil temperature sensors, we use a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min.
+1.- Using temperature and humidity, soil moisture and soil temperature sensors, we use a Pycom FiPy dev board with Sigfox technology to obtain sensor data every 6 min. Sigfox chosen because the characteristics of long range and low power are excellent for remote areas.
 
 - Each batch of sensing is done at this frequency to send 120 data per day and not pass the data quota of Sigfox which is 140 data packets per day.
 
