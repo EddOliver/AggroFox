@@ -2,7 +2,7 @@
 
 AggroFox is a platform notification, dashboard and analytics for in house and large-scale agriculture using sigfox technology.
 
-<img src="https://image.ibb.co/gQskm8/68747470733a2f2f696d6167652e6962622e636f2f62477041596f2f6167726f666f782e706e67.png" width="800">
+<img src="https://image.ibb.co/gQskm8/68747470733a2f2f696d6167652e6962622e636f2f62477041596f2f6167726f666f782e706e67.png" width="801">
 
 # Table of contents
 * [Introduction](#introduction)
@@ -21,7 +21,7 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 Let's take a look at some FACTS:
 
-• The population in Mexico (Both of the author's own country) and in the world will grow.
+• The population in Mexico (Both the author's own country) and in the world will grow.
 
 • By 2050 the production of food will have to DOUBLE to feed this population.
 
