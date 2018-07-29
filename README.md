@@ -13,7 +13,7 @@ AggroFox is a platform notification, dashboard and analytics for in house and la
 
 ## Introduction:
 
-Imagine a world where there is not enough food for you and your loved ones, an arid world where there is nothing to satisfy your hunger, because of the current methods of agriculture, where excess fertilizers and pesticides have been used. These methods are not sustainable and we have to find new methods to optimize crops. Remember, we cannot create new land to grow crops, and the water reserves are being reduced each year. For that, Industry 3.0, with IoT, Big Data and predictive analysis solutions have to emerge.
+Imagine a world where there is not enough food for you and your loved ones, an arid world where there is nothing to satisfy your hunger. Because of the current methods of agriculture, where excess fertilizers and pesticides have been used. These methods are not sustainable and we have to find new methods to optimize crops. Remember, we cannot create new land to grow crops, and the water reserves are being reduced each year. For that, Industry 3.0, with IoT, Big Data and predictive analysis solutions have to emerge to avoid this scenario from happening.
 
 ## Problematic:
 
