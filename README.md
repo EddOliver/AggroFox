@@ -55,7 +55,7 @@ Our solution to the problem was to create a sustainable platform of sensing and 
 
 - Once on the Pycom board we receive the data from the sensors and through Sigfox we send them to the Sigfox Backend platform.
 
-<img src="https://image.ibb.co/kkshg8/chacala2.png">
+<img src="https://image.ibb.co/bGNtpT/chacala3.png">
 
 2.- Once the data is in the Sigfox Backend, we send the data through a callback to the Thingspeak website through its API (more information in the link below).
 
