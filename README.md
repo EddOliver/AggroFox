@@ -19,21 +19,25 @@ Imagine a world where there is not enough food for you and your loved ones, an a
 
 <img src="http://images.teinteresa.es/tierra/Campo-debido-prolongada-sequia-verano_TINIMA20120726_0294_5.jpg" width="800">
 
-• The population in Mexico and in the world takes advantage.
+Let's take a look at some FACTS:
 
-• By 2050 the production of food suppose that double.
+• The population in Mexico (Both the author's own country) and in the world will grow.
 
-• The amount of arable land does not increase.
+• By 2050 the production of food will have to DOUBLE to feed this population.
 
-• The amount of water available it is decreasing.
+• The amount of arable Land will not increase.
+
+• The amount of Water available will be decreasing.
 
 • Sustainable Disruption is needed.
 
-If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud to generate a sustainable risk taking information from the environment and above all being powered by solar cells ....... oh wait, there is Aggrofox!
+• Current methods are insufficient for this.
+
+If only there was a way to monitor the field through a network of sustainable sensors, which could be monitored in real time 365 days a year, performing data analytics in the cloud and taking weather predictions to generate models. Taking all this information to manage resources such as water, in order to save most of them, and above all being powered by solar cells ....... oh wait, there is Aggrofox!
 
 ## Our Solution:
 
-Our solution to the problem is to realize a sustainable model of sensing and irrigation automation.
+Our solution to the problem was to create a sustainable model of sensing and irrigation automation.
 
 <img src="https://image.ibb.co/kApd4T/Esquematico.png" width="800">
 
