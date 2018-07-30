@@ -110,7 +110,7 @@ PLACEHOLDER FOR IMAGES
 
 Here is a Video of AggroFox in action!:
 
-PLACEHOLDER FOR EMBEDED VIDEO
+[![AggroFox VIDEO!](https://image.ibb.co/n84O68/agrofox_Recuperado.png)](https://www.youtube.com/watch?v=7SUabreZY28& "AggroFox")
 
 
 ## Where should I start:
