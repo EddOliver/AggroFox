@@ -106,7 +106,17 @@ These other images above show the Web Desktop Dashboard and some screenshots of 
 
 # Here are some images of the solution implemented on various crops:
 
-PLACEHOLDER FOR IMAGES
+Hydroponic Chili.
+
+<img src="https://image.ibb.co/dre1B8/Whats_App_Image_2018_07_29_at_21_23_06_1.jpg" width="600">
+
+Normal Onion Culture.
+
+<img src="https://image.ibb.co/iS4CJo/Whats_App_Image_2018_07_29_at_21_23_09_1.jpg">
+
+Fig Tree
+
+<img src="https://image.ibb.co/gqfmdo/Whats_App_Image_2018_07_29_at_21_23_06.jpg">
 
 # Here is a Video of AggroFox in action!, click on the image:
 
