@@ -88,7 +88,7 @@ Link: https://github.com/EddOliver/AggroFox/tree/master/Sigfox%20Configuration/A
 
 In this image you can see the Node-RED flow and the Dashboard we made.
 
-PLACEHOLDER FOR DASHBOARD WITH THE SOIL MOISTURE NOT IN 0
+<img src="https://image.ibb.co/k0baOo/EFDF60_E8_0_E94_4802_8_D96_2_DF7_F35331_FA.jpg">
 
 <img src="https://image.ibb.co/m7yKDo/Whats_App_Image_2018_07_29_at_01_22_13.jpg" width="300"> <img src="https://image.ibb.co/j3kczT/Whats_App_Image_2018_07_29_at_01_22_14.jpg" width="300">
 
