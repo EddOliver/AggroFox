@@ -1,9 +1,7 @@
 # Valve Build Process
-<img src="https://image.ibb.co/ccTEeT/Whats_App_Image_2018_07_29_at_01_23_14_2.jpg" width="200"> <img src="https://image.ibb.co/eDdQm8/Whats_App_Image_2018_07_29_at_01_23_14_1.jpg" width="200">
+<img src="https://image.ibb.co/ccTEeT/Whats_App_Image_2018_07_29_at_01_23_14_2.jpg" width="200"> <img src="https://image.ibb.co/eDdQm8/Whats_App_Image_2018_07_29_at_01_23_14_1.jpg" width="200"> <img src="https://image.ibb.co/d377zT/Whats_App_Image_2018_07_29_at_01_23_13.jpg" width="200"> <img src="https://image.ibb.co/m2H7zT/Whats_App_Image_2018_07_29_at_01_23_14.jpg" width="200">
 AggroFox <img src="https://image.ibb.co/h5drR8/Whats_App_Image_2018_07_29_at_01_22_33.jpg" width="200">
-Valve only <img src="https://image.ibb.co/gHZnzT/Whats_App_Image_2018_07_29_at_01_22_45.jpg" width="200">
-Valve Open box<img src="https://image.ibb.co/d377zT/Whats_App_Image_2018_07_29_at_01_23_13.jpg" width="200">
-"PCB" <img src="https://image.ibb.co/m2H7zT/Whats_App_Image_2018_07_29_at_01_23_14.jpg" width="200">
+Valve <img src="https://image.ibb.co/gHZnzT/Whats_App_Image_2018_07_29_at_01_22_45.jpg" width="200">
 
 
 # Hydroponic Chili.
