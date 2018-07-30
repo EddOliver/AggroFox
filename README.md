@@ -104,11 +104,11 @@ These other images above show the Web Desktop Dashboard and some screenshots of 
 
 - Also everytime the irrigation system is online, a notification will be sent.
 
-Here are some images of the solution implemented on various crops:
+# Here are some images of the solution implemented on various crops:
 
 PLACEHOLDER FOR IMAGES
 
-Here is a Video of AggroFox in action!:
+# Here is a Video of AggroFox in action!, click on the image:
 
 [![AggroFox VIDEO!](https://image.ibb.co/n84O68/agrofox_Recuperado.png)](https://www.youtube.com/watch?v=7SUabreZY28& "AggroFox")
 
