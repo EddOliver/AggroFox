@@ -106,11 +106,7 @@ These other images above show the Web Desktop Dashboard and some screenshots of 
 
 # Here are some images of the solution implemented on various crops:
 
-<img src="https://image.ibb.co/dre1B8/Whats_App_Image_2018_07_29_at_21_23_06_1.jpg" width="400">
-
-<img src="https://image.ibb.co/iS4CJo/Whats_App_Image_2018_07_29_at_21_23_09_1.jpg" width="400">
-
-<img src="https://image.ibb.co/gqfmdo/Whats_App_Image_2018_07_29_at_21_23_06.jpg" width="400">
+<img src="https://image.ibb.co/dre1B8/Whats_App_Image_2018_07_29_at_21_23_06_1.jpg" width="300"> <img src="https://image.ibb.co/iS4CJo/Whats_App_Image_2018_07_29_at_21_23_09_1.jpg" width="300"> <img src="https://image.ibb.co/gqfmdo/Whats_App_Image_2018_07_29_at_21_23_06.jpg" width="300">
 
 In the images you can see an Hydroponic Chili,an Onion Culture and the implementation on a Fig Tree
 
