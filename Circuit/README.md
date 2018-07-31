@@ -20,7 +20,7 @@ Bill of Materials:
 - DS18B20 Sensor.
 - 3 Resistances of 1kohm.
 - 1 Resistance of 4.7kohm.
-- LiPo Raider Pro.(Driver Module for Baterry and Solar Cell).
+- LiPo Rider Pro.(Driver Module for Baterry and Solar Cell).
 - Solar Cell (5V, 500mA).
 - Lithium Battery (3.7v, 500mA).
 - Cable, Solder, Jump wire or similar.
